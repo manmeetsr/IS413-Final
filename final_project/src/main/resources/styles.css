@@ -1,0 +1,42 @@
+.root {
+    -fx-font-family: Arial;
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-background-color: #0066cc;
+    -fx-text-fill: white;
+    -fx-padding: 10px;
+}
+
+.button:hover {
+    -fx-background-color: #0055aa;
+}
+
+.label {
+    -fx-font-weight: bold;
+}
+
+.table-view {
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}
+.add-button {
+    -fx-background-color: #0066cc;
+    -fx-text-fill: white;
+    -fx-padding: 10px;
+}
+
+.add-button:hover {
+    -fx-background-color: #0055aa;
+}
+
+.delete-button {
+    -fx-background-color: #cc0000;
+    -fx-text-fill: white;
+    -fx-padding: 10px;
+}
+
+.delete-button:hover {
+    -fx-background-color: #aa0000;
+}

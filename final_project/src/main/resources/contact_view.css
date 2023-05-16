@@ -1,0 +1,21 @@
+.text-field:hover {
+    -fx-background-color: #e8e8e8;
+}
+.hoverable-field:hover {
+    -fx-background-color: #e8e8e8;
+}
+.root {
+    -fx-background-color: #add8e6; /* light blue */
+}
+.table-view {
+    -fx-background-color: #ffffe0; /* light yellow */
+}
+.text-field {
+    -fx-background-color: #f0f8ff; /* Alice blue */
+}
+
+
+
+.table-row-cell:hover {
+    -fx-background-color: #e6f7ff; /* Light blue */
+}
